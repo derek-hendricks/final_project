@@ -6,3 +6,5 @@
 
 <h3>Run Tests:</h3>
 - npm run test
+
+<img src="./readmegif.gif"></img>
